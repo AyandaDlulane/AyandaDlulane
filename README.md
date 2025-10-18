@@ -32,10 +32,10 @@
 
 ### 👨‍💻 About Me
 
-- 📍 Based in **South Africa**, studying **Electrical & Information Engineering** at **Wits University**  
+- 📍 Based in **Johannesburg**, studying **Electrical & Information Engineering** at **Wits University**  
 - 💡 Interested in **data pipelines**, **ETL**, and **machine learning** applications in finance and analytics  
 - 🧠 Currently learning **Python (Pandas, Numpy, Scikit-learn)** and **SQL** for data transformation  
-- 🛠 Working on projects like a **Phishing Detection Model** and a **Mini Data Warehouse System**  
+- 🛠 Working on projects like a **Phishing Detection Model** and a **Data Warehouse System**  
 - 📚 Exploring how data engineering supports **AI and quantitative analysis**  
 - ⚡ Fun fact: I believe clean data is just as important as clever algorithms
 
@@ -71,7 +71,7 @@
 
 - 🧹 **Data Cleaning and Transformation Pipelines** – Automating preprocessing for raw CSV datasets  
 - 🔍 **Phishing Website Detector** – Building an ML classifier using Scikit-learn  
-- 🗄️ **Mini Data Warehouse** – Designing schema, ETL flow, and analytics layer for structured data  
+- 🗄️ **Data Warehouse** – Designing schema, ETL flow, and analytics layer for structured data  
 
 ---
 
