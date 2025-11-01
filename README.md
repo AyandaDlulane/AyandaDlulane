@@ -26,7 +26,7 @@
 
 <h1 align="center">Hey there 👋, I'm Ayanda Dlulane</h1>
 
-<h3 align="center">🎓 Data Engineering & Machine Learning Student | Wits University</h3>
+<h3 align="center">🎓 Information/Data Engineering Student | Wits University</h3>
 
 ---
 
