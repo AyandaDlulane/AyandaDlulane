@@ -90,10 +90,6 @@
   </a>
 </div>
 
----
 
-<img src="https://raw.githubusercontent.com/ayandadlulane/ayandadlulane/output/snake.svg" alt="Snake animation" />
-
----
 
 
