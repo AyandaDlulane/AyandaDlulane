@@ -26,18 +26,15 @@
 
 <h1 align="center">Hey there 👋, I'm Ayanda Dlulane</h1>
 
-<h3 align="center">🎓 Information/Data Engineering Student | Wits University</h3>
+<h3 align="center">🎓 Electrical & Information Engineering Student | Wits University</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
 - 📍 Based in **Johannesburg**, studying **Electrical & Information Engineering** at **Wits University**  
-- 💡 Interested in **data pipelines**, **ETL**, and **machine learning** applications in finance and analytics  
-- 🧠 Currently learning **Python (Pandas, Numpy, Scikit-learn)** and **SQL** for data transformation  
-- 🛠 Working on projects like a **Phishing Detection Model** and a **Data Warehouse System**  
-- 📚 Exploring how data engineering supports **AI and quantitative analysis**  
-- ⚡ Fun fact: I believe clean data is just as important as clever algorithms
+- 💻 Passionate about **Software Engineering**, **system design**, and **building scalable applications**  
+- 📊 Interested in **data pipelines**, **automation**, and **analytics**, but my focus is on general software engineering  
 
 ---
 
@@ -47,13 +44,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 <img width="12" />
@@ -69,17 +62,17 @@
 
 ### 📈 Current Projects
 
-- 🧹 **Data Cleaning and Transformation Pipelines** – Automating preprocessing for raw CSV datasets  
-- 🔍 **Phishing Website Detector** – Building an ML classifier using Scikit-learn  
-- 🗄️ **Data Warehouse** – Designing schema, ETL flow, and analytics layer for structured data  
+- 🖥️ **Software Tools & Automation** – Building CLI and GUI applications to solve real-world problems  
+- 🔍 **Phishing Website Detector** – ML-based project using Python, focusing on security and automation  
+- 🗄️ **Data Pipeline Projects** – ETL flows and preprocessing for structured datasets, supporting software applications  
 
 ---
 
 ### 🌱 What I’m Working Toward
 
-- Gaining hands-on experience in **data engineering**, **ETL pipelines**, and **analytics automation**  
-- Contributing to **open-source** and **collaborative ML projects**  
-- Securing **internship opportunities** in data & ML fields  
+- Gaining hands-on experience in **software development**, **system design**, and **automation tools**  
+- Contributing to **open-source projects** and **collaborative software engineering initiatives**  
+- Securing **internship opportunities** in **software engineering**, while leveraging my Electrical & Information background  
 
 ---
 
@@ -102,4 +95,5 @@
 <img src="https://raw.githubusercontent.com/ayandadlulane/ayandadlulane/output/snake.svg" alt="Snake animation" />
 
 ---
+
 
