@@ -34,7 +34,7 @@
 
 - 📍 Based in **Johannesburg**, studying **Electrical & Information Engineering** at **Wits University**  
 - 💻 Passionate about **Software Engineering**, **system design**, and **building scalable applications**  
-- 📊 Interested in **data pipelines**, **automation**, and **analytics**, but my focus is on general software engineering  
+- 📊 Interested in solving real-world problems
 
 ---
 
